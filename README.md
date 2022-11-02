@@ -26,3 +26,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # Auth-ngular
+
+
+Built in with Angular , imported the Domain and Client ID 
+put Buttons and Button function it will take you to the Authentication App where you can sign in sign up
+
+
+this is my app contain : log in - sign up - logged in page - logout and this photo from my project :
+![Uploading ‏لقطة الشاشة ٢٠٢٢-١١-٠٣ في ١١.٠٠.١٠ ص.png…]()
+
+![Uploading ‏لقطة الشاشة ٢٠٢٢-١١-٠٣ في ١٠.٥٩.٥٦ ص.png…]()
+![Uploading ‏لقطة الشاشة ٢٠٢٢-١١-٠٣ في ١٠.٥٩.٠٩ ص.png…]()
+
+![Uploading ‏لقطة الشاشة ٢٠٢٢-١١-٠٣ في ١٠.٥٩.٤٠ ص.png…]()
+![Uploading ‏لقطة الشاشة ٢٠٢٢-١١-٠٣ في ١٠.٥٩.٢٧ ص.png…]()
+
